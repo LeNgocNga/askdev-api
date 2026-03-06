@@ -1,4 +1,4 @@
-# 💬 Programming Q&A Forum — Backend
+# 💬 Programming Q&A Forum
 
 ---
 
